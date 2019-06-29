@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-namespace DCS004
+namespace DCS
 {
     class RandomGen
     {//my random generator

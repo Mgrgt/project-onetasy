@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-namespace DCS004
+namespace DCS
 {
     class Program
     {

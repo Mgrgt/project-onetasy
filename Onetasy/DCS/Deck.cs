@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using static System.Console;
 
-namespace DCS004
+namespace DCS
 {
     class Deck
     {
